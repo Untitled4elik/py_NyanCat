@@ -2,7 +2,7 @@
 
 **NyanCat is the BEST simplification library for libraries like: PyFiglet, Socket and colorama.**
 
-NyanCat **DOES NOT** guarantee to make coding on python with it a LOT easier! :3
+why type 10 lines while 1 can do fine? :3
 
 you are free to modify it! just dont forget to read the MIT license or u will get in trouble, hehe!
 
@@ -32,4 +32,9 @@ Copyright (c) 2025 Untitled4elik
 
 # DISCLAMER!⚠️
 
-this library is **NOT** available on PyPi. please download it from here :3!
+this library is **NOT** available on PyPi. In order to download it type:
+
+```bash
+git clone git clone https://github.com/Untitled4elik/py_NyanCat.git
+cd py_NyanCat
+```
