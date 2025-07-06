@@ -1,4 +1,4 @@
-# py_NyanCat
+# py_NyanCat (100% workin' trust me)
 
 **NyanCat is the BEST simplification library for libraries like: PyFiglet, Socket and colorama.**
 
